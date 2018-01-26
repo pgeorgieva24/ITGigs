@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITGigs.MVCApp", "ITGigs.MVCApp\ITGigs.MVCApp.csproj", "{74BEC1EE-57D8-4FFD-AF31-8C2A33E3A6B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74BEC1EE-57D8-4FFD-AF31-8C2A33E3A6B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74BEC1EE-57D8-4FFD-AF31-8C2A33E3A6B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74BEC1EE-57D8-4FFD-AF31-8C2A33E3A6B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74BEC1EE-57D8-4FFD-AF31-8C2A33E3A6B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8734B519-829E-4C47-B963-C5B1F3ED02C3}
+	EndGlobalSection
+EndGlobal
